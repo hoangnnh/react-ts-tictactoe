@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+
+# production build
+/dist
+
+# parcel cache
+.parcel-cache
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE settings
+.vscode
+.idea
+
+# TypeScript
+*.tsbuildinfo
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
